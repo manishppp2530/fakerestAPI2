@@ -1,8 +1,8 @@
 {
   "results": [
     {
-      "message": "Up and Running",
-      "status": "Active",
+      "message": "Application is not Arunning",
+      "status": "Non-Active",
       "server_id": "Gateway Application"
     },
    
